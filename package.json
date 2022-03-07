@@ -1,7 +1,7 @@
 {
-  "name": "dandd",
+  "name": "chainlibnk_dnd",
   "version": "1.0.0",
-  "description": "",
+  "description": "both git clone https://github.com/PatrickAlphaC/dungeons-and-dragons-nft and truffle unbox truffle unbox smartcontractkit/box gave compile errors.",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -9,12 +9,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptonomicon46/Chainlibnk_DnD.git"
+  },
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cryptonomicon46/Chainlibnk_DnD/issues"
+  },
+  "homepage": "https://github.com/cryptonomicon46/Chainlibnk_DnD#readme",
   "dependencies": {
     "@chainlink/contracts": "^0.4.0",
     "@openzeppelin/contracts": "^4.5.0-rc.0",
-    "@truffle/hdwallet-provider": "^2.0.3",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "dotenv": "^16.0.0"
   },
   "devDependencies": {
