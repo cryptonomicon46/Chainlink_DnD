@@ -1,4 +1,4 @@
-# DandD
+# Chainlink_Dnd same as the other DND project
 
 both git clone https://github.com/PatrickAlphaC/dungeons-and-dragons-nft
 and truffle unbox truffle unbox smartcontractkit/box
